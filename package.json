@@ -1,5 +1,5 @@
 {
-	"name": "eslint-config-mwalter",
+	"name": "eslint-config-etsol",
 	"version": "1.0.5",
 	"description": "Configuración de ESLint",
 	"main": "index.js",
@@ -14,10 +14,10 @@
 	"author": "Mariano Walter <marianowalter.14@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MarianoWalter/eslint-config.git"
+		"url": "https://github.com/Etsol/eslint-config.git"
 	},
 	"license": "ISC",
 	"devDependencies": {
-		"eslint": "^6.3.0"
+		"eslint": "^6.4.0"
 	}
 }
